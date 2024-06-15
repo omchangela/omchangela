@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/red-gawd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="red-gawd" height="30" width="40" /></a>
-<a href="https://dev.to/chandrakethan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omchangela" height="30" width="40" /></a>
+<a href="https://dev.to/omchangela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omchangela" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/om-changela1545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om changela" height="30" width="40" /></a>
 <a href="https://www.instagram.com/om_changela_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_changela_" height="30" width="40" /></a>
 </p>
